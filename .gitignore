@@ -2,4 +2,5 @@ venv/
 data/
 *.h5
 __pycache__/
-outputs/
+outputs/*
+!outputs/*.png
