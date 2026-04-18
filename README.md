@@ -1,4 +1,4 @@
-\# 🧠 AI Medical Image Analysis (Pneumonia Detection)
+\# 🧠 **AI Medical Image Analysis (Pneumonia Detection)**
 
 
 
